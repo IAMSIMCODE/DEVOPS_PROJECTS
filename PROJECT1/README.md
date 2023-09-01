@@ -151,4 +151,6 @@ With history, the system will list too 500 previously executed commands.
 
 ![Alt text](Images/history.png)
 
+Thank you.
+
 
