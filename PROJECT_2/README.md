@@ -112,3 +112,86 @@ Run the git commit command to commit your files
 
 ### Working With Branches
 
+Git branch help you create a different copy of your source code. You can make changes as you please in your new branch because it is independent of your main branch 
+
+One of the reason for git branch is to develope new features and its also an important tool for colaboration within a remote teams working from different location 
+
+### Creating my Branch
+
+#### git branch dev
+
+![Alt text](images/gitbranch.png)
+
+Switch to new branch 
+
+#### git switch dev
+
+![Alt text](images/branchswith.png)
+
+List all the branches 
+
+#### git branch 
+
+
+![Alt text](images/listb.png)
+
+Make changes to the branch and commit the changes 
+
+#### git commit -a -m  Your Commit Message
+
+![Alt text](images/modifydevbranch.png)
+
+Switch back to tha main branch 
+
+#### git switch main
+
+![Alt text](images/switchbacktomain.png)
+
+Merge into the main branch 
+
+#### git merge -m Your Merge Message
+
+![Alt text](images/merg.png)
+
+Delete the dev branch 
+
+#### git delete -d dev
+
+![Alt text](images/delete.png)
+
+#### git branch 
+
+![Alt text](images/finalb.png)
+
+## Collaboration and Remote Repositories
+
+Now that the local repository have been created, its time to push the file or code to git hub so that it can be available for other developers to access over the internet. 
+
+Remote teams can now view, update and make changes to the same repository 
+
+### Creating a GitHub Account 
+
+Click here [github](https://github.com) to register 
+
+Follow the steps on the website to register
+
+### Creating a Repository
+
+* Click on the plus sign at the top right coner of you git hub account 
+
+![Alt text](images/logo.png)
+
+* Fill out the form by adding a unique repository name, discription and ticking the box to add a readme file 
+
+![Alt text](images/repo.png)
+![Alt text](images/crRep.png)
+
+* copy your repository link 
+
+![Alt text](images/link.png)
+
+* Add your remote repository to your local repository using the command below 
+
+#### git remote add origin <"paste the link you cpoies">
+
+
