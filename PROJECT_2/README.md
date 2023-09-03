@@ -194,4 +194,13 @@ Follow the steps on the website to register
 
 #### git remote add origin <"paste the link you cpoies">
 
+![Alt text](images/addOrigin.png)
+
+#### git push origin main 
+
+![Alt text](images/gitpush.png)
+
+#### git clone <"paste your remote repository link">
+
+THANK YOU
 
