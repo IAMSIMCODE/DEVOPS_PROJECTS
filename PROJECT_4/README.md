@@ -1,4 +1,4 @@
-# WEB STACK IMPLEMENTATION (LAMP STACK)
+# WEB STACK IMPLEMENTATION (LEMP STACK)
 
 To complete this project you will need an AWS account and a virtual server with Ubuntu Server operating system. 
 
