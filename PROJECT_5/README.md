@@ -211,3 +211,5 @@ E. Run the script using the command <code style="color : red">./DemoScript.sh</c
 Simple shell scripting implementation. for further study click the link below!
 
 Click on the [Learn-Shell-Scripting](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) to learn shell scripting in an interactive environment 
+
+Read more about
